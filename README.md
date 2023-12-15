@@ -1,1 +1,5 @@
-uh I'll put something here later, maybe.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zEw0&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zEw0&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zEw0&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zEw0&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zEw0&theme=tokyonight&utcOffset=8) 
